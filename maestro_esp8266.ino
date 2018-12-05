@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 
 /** Pins **/
-int RX = 10
-int TX = 11
+int RX = 10;
+int TX = 11;
 
 
 int timeout = 2;
